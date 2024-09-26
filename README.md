@@ -1,3 +1,3 @@
 # CursedOS
 
-## Right now there arent any files here, but they will be here in a short amount of time.
+## Right now there isnt a complete readme yet but to compile this just use 'make'
